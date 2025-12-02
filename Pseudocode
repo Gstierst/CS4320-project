@@ -1,0 +1,33 @@
+User logs in or creates an account​
+ User enters the main dashboard​
+
+If the user selects Add Fish:​
+     User enters fish details (species, location, etc.)​
+     User chooses public or private​
+     Fish is stored with visibility setting​
+
+    If the user has more fish to add:​
+         Repeat the add process​
+     Else:​
+         Return to dashboard​
+
+If the user selects View Catalog:​
+     User sees all cataloged fish​
+     User may view both personal and public entries​
+
+    If the user chooses to edit a fish entry:​
+         User updates fish information​
+         Changes are saved​
+     Else:​
+         Return to dashboard​
+
+If the user selects Search:​
+     User searches by species or location​
+     Matching fish entries are shown​
+     User may view details or return to dashboard​
+
+If the user selects Logout:​
+     Session ends​
+     Application stops​
+
+​
